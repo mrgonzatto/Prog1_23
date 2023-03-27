@@ -1,0 +1,15 @@
+D:\Unoesc\Programacao I\2023\Exe\NumeroPorExtenso\bin\Debug\net7.0\NumeroPorExtenso.exe
+D:\Unoesc\Programacao I\2023\Exe\NumeroPorExtenso\bin\Debug\net7.0\NumeroPorExtenso.deps.json
+D:\Unoesc\Programacao I\2023\Exe\NumeroPorExtenso\bin\Debug\net7.0\NumeroPorExtenso.runtimeconfig.json
+D:\Unoesc\Programacao I\2023\Exe\NumeroPorExtenso\bin\Debug\net7.0\NumeroPorExtenso.dll
+D:\Unoesc\Programacao I\2023\Exe\NumeroPorExtenso\bin\Debug\net7.0\NumeroPorExtenso.pdb
+D:\Unoesc\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.csproj.AssemblyReference.cache
+D:\Unoesc\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.AssemblyInfoInputs.cache
+D:\Unoesc\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.AssemblyInfo.cs
+D:\Unoesc\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.csproj.CoreCompileInputs.cache
+D:\Unoesc\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.dll
+D:\Unoesc\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\refint\NumeroPorExtenso.dll
+D:\Unoesc\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.pdb
+D:\Unoesc\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.genruntimeconfig.cache
+D:\Unoesc\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\ref\NumeroPorExtenso.dll
