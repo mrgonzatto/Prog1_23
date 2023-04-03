@@ -1,0 +1,15 @@
+D:\Unoesc\Programacao I\2023\Exe\FluxoTiposExceptions\bin\Debug\net7.0\FluxoTiposExceptions.exe
+D:\Unoesc\Programacao I\2023\Exe\FluxoTiposExceptions\bin\Debug\net7.0\FluxoTiposExceptions.deps.json
+D:\Unoesc\Programacao I\2023\Exe\FluxoTiposExceptions\bin\Debug\net7.0\FluxoTiposExceptions.runtimeconfig.json
+D:\Unoesc\Programacao I\2023\Exe\FluxoTiposExceptions\bin\Debug\net7.0\FluxoTiposExceptions.dll
+D:\Unoesc\Programacao I\2023\Exe\FluxoTiposExceptions\bin\Debug\net7.0\FluxoTiposExceptions.pdb
+D:\Unoesc\Programacao I\2023\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.csproj.AssemblyReference.cache
+D:\Unoesc\Programacao I\2023\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc\Programacao I\2023\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.AssemblyInfoInputs.cache
+D:\Unoesc\Programacao I\2023\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.AssemblyInfo.cs
+D:\Unoesc\Programacao I\2023\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.csproj.CoreCompileInputs.cache
+D:\Unoesc\Programacao I\2023\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.dll
+D:\Unoesc\Programacao I\2023\Exe\FluxoTiposExceptions\obj\Debug\net7.0\refint\FluxoTiposExceptions.dll
+D:\Unoesc\Programacao I\2023\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.pdb
+D:\Unoesc\Programacao I\2023\Exe\FluxoTiposExceptions\obj\Debug\net7.0\FluxoTiposExceptions.genruntimeconfig.cache
+D:\Unoesc\Programacao I\2023\Exe\FluxoTiposExceptions\obj\Debug\net7.0\ref\FluxoTiposExceptions.dll
