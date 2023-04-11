@@ -1,5 +1,7 @@
 ﻿
 // Operadores Unários
+using FluxoTiposExceptions.Classes;
+
 int x = 5;
 int incrementoPosfixado = x++; // 6
 incrementoPosfixado++;
@@ -59,7 +61,67 @@ WriteLine();
 WriteLine($"a & FacaAlgo() = {a & FacaAlgo()}");
 WriteLine($"b & FacaAlgo() = {b & FacaAlgo()}");
 
+//-------------------------------
 
+Animal[] animals = new Animal[]
+{
+    new Cat{ 
+        Name = "Garfield"
+        , Born = new(year:2022, month: 8, day: 23)
+        , Legs = 4
+        , IsDomestic = true
+    },
+    null,
+    new Cat{
+        Name = "Mimi"
+        ,Born = new(year:1994, month:6, day:12)
+        , Legs = 4        
+    },
+    new Spider{
+        Name = "Peter Parker"
+        , Born = DateTime.Today
+        , IsPoisonous = true
+        , Legs = 8
+    },
+    new Spider{
+        Name = "Eddie Brock"
+        , Born = DateTime.Today
+        , IsPoisonous = true
+        , Legs = 8
+    }
+};
+
+// Laços de repetição
+// 3 tipos de variáveis para controle de repetição
+// 1: Flag - Bandeirinha, booleano que indica se para ou continua
+// 2: Counter - Contador, Conta quantas vezes a repetição ocorreu
+// 3: Acumulador - Permite acumular valores a cada iteração
+
+// Laço for
+for(int i = 0; i < animals.Length; i++)
+{
+    string message = string.Empty;
+    if( animals[i] != null )
+    {
+        message = $"Nome: {animals[i].Name} ";
+        message += $"Data Nasc: {animals[i].Born.ToShortDateString()}";
+    }
+    Console.WriteLine(message);
+}
+
+// LAÇO DE REPETIÇÃO PARA CADA
+Console.WriteLine("\n---FOREACH---\n");
+foreach( Animal animal in animals )
+{
+    string message = string.Empty;
+    if( animal != null )
+    {
+        message += $"Nome: {animal.Name}";
+    }
+    Console.WriteLine(message);
+}
+
+//
 
 
 
