@@ -1,0 +1,15 @@
+D:\Unoesc\Programacao I\2023\Exe\TratamentoErros\bin\Debug\net7.0\TratamentoErros.exe
+D:\Unoesc\Programacao I\2023\Exe\TratamentoErros\bin\Debug\net7.0\TratamentoErros.deps.json
+D:\Unoesc\Programacao I\2023\Exe\TratamentoErros\bin\Debug\net7.0\TratamentoErros.runtimeconfig.json
+D:\Unoesc\Programacao I\2023\Exe\TratamentoErros\bin\Debug\net7.0\TratamentoErros.dll
+D:\Unoesc\Programacao I\2023\Exe\TratamentoErros\bin\Debug\net7.0\TratamentoErros.pdb
+D:\Unoesc\Programacao I\2023\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.csproj.AssemblyReference.cache
+D:\Unoesc\Programacao I\2023\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc\Programacao I\2023\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.AssemblyInfoInputs.cache
+D:\Unoesc\Programacao I\2023\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.AssemblyInfo.cs
+D:\Unoesc\Programacao I\2023\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.csproj.CoreCompileInputs.cache
+D:\Unoesc\Programacao I\2023\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.dll
+D:\Unoesc\Programacao I\2023\Exe\TratamentoErros\obj\Debug\net7.0\refint\TratamentoErros.dll
+D:\Unoesc\Programacao I\2023\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.pdb
+D:\Unoesc\Programacao I\2023\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.genruntimeconfig.cache
+D:\Unoesc\Programacao I\2023\Exe\TratamentoErros\obj\Debug\net7.0\ref\TratamentoErros.dll
