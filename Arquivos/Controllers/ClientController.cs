@@ -65,14 +65,50 @@ namespace Arquivos.Controllers
         return true;
       }
 
-        public int GetNextId()
+      public bool ImportFromTxtFile()
+      {
+        try
         {
-            int tam = DataSet.Clients.Count;
+          StreamReader sr = new StreamReader(
+            $"{directoryName}\\{fileName}"
+          );
 
-            if( tam > 0 )
-              return DataSet.Clients[tam - 1].Id + 1;
-            else
-              return 1;
+          string line = string.Empty;
+          line = sr.ReadLine();
+          while(line != null)
+          {
+            Client client = new Client();
+            string[] clientData = line.Split(';');
+            client.Id = Convert.ToInt32( clientData[0] );
+            client.CPF = clientData[1];
+            client.FirstName = clientData[2];
+            client.LastName = clientData[3];
+            client.Email = clientData[4];
+
+            DataSet.Clients.Add(client);
+
+            line = sr.ReadLine();
+          }
+
+          return true;
         }
+        catch(Exception ex)
+        {
+          Console.WriteLine("Ooops. Ocorreu um erro ao tentar importar os dados.");
+          Console.WriteLine(ex.Message);
+          return false;
+        }
+
+      }
+
+      public int GetNextId()
+      {
+          int tam = DataSet.Clients.Count;
+
+          if( tam > 0 )
+            return DataSet.Clients[tam - 1].Id + 1;
+          else
+            return 1;
+      }
     }
 }
