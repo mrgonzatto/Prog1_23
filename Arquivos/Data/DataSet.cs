@@ -7,6 +7,7 @@ namespace Arquivos.Data
         public static List<Client> Clients 
             = new List<Client>();
 
-        //LIsta para Animais
+        public static List<Animal> Animals
+            = new List<Animal>();
     }
 }

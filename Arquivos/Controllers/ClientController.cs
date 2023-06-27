@@ -121,6 +121,24 @@ namespace Arquivos.Controllers
 
       }
 
+      public Client GetClientById(int id)
+      {
+        if(id <= 0)  
+          return null;
+
+        Client ret = new Client();
+        foreach(var c in DataSet.Clients)
+        {
+          if(c.Id == id)
+          {
+            ret = c;
+            break;
+          }            
+        }
+
+        return ret;
+      }
+
       public int GetNextId()
       {
           int tam = DataSet.Clients.Count;
