@@ -40,6 +40,15 @@ namespace Arquivos.Models
             Email = email;
         } // Fim do escopo deste método
 
+        public string FullName => 
+            $"{this.FirstName} {this.LastName}";
+
+
+        public override string ToString()
+        {   
+            return $"Id: {this.Id}; Name: {this.FullName} ";
+        }
+
     } // Fim do ESCOPO da Classe
 
 } // Fim do ESCOPO do Namespace
